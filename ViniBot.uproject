@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0004FEA4-08D6-B81C-9700-5F327DCA25AC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ViniBot",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlueprintJson",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
+		},
+	]
+}

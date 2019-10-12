@@ -1,0 +1,1 @@
+/home/fidel/vx/services/SimboticEngine/Engine/Binaries/Linux/UE4Editor /home/fidel/Projects/ViniBot/ViniBot.uproject
